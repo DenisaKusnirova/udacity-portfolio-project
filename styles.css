@@ -1,0 +1,52 @@
+container {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h4 {
+  text-align: right;
+}
+
+hr {
+    color: #7d97ad;
+    background-color: #7d97ad;
+    align-content: flex-start;
+    height: 2px;
+    width: 100%;
+}
+
+.image-stretch {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.section-header {
+  margin-bottom: 20px;
+  margin-top: 48px;
+}
+
+.dark-grey-text {
+  color: #2d3c49;
+}
+
+.title-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
